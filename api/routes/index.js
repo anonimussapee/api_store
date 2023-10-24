@@ -23,8 +23,6 @@ function routerApi(app){
 
   router.use('/*', error404);
 
-  router.use('/*', error404);
-
 
 }
 
